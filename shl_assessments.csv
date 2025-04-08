@@ -1,0 +1,21 @@
+Name,URL,RemoteTesting,AdaptiveIRT,Duration,TestType,Description
+Java 8 (New),https://www.shl.com/assessments/java-8,Yes,No,30,Multi-choice,Measures Java class design and concurrency
+SQL (New),https://www.shl.com/assessments/sql,Yes,Yes,25,Multi-choice,Tests SQL queries and data manipulation
+Occupational Personality Questionnaire (OPQ),https://www.shl.com/assessments/opq,Yes,No,45,Personality,Assesses workplace behavior and collaboration
+Verify Interactive Numerical,https://www.shl.com/assessments/verify-numerical,Yes,Yes,10,Interactive,Tests numerical calculation skills
+JavaScript (New),https://www.shl.com/assessments/javascript,Yes,No,35,Multi-choice,Tests front-end JavaScript skills
+Python (New),https://www.shl.com/assessments/python,Yes,Yes,20,Multi-choice,Tests Python programming fundamentals
+Verify G+ Cognitive Ability,https://www.shl.com/assessments/verify-g-plus,Yes,Yes,30,Multi-choice,Measures general cognitive ability
+Behavioral Competency,https://www.shl.com/assessments/behavioral,Yes,No,40,Personality,Tests teamwork and leadership traits
+Coding Simulation - Java,https://www.shl.com/assessments/coding-java,Yes,No,50,Simulation,Real-world Java coding scenarios
+Data Analysis Skills,https://www.shl.com/assessments/data-analysis,Yes,Yes,15,Interactive,Tests data interpretation skills
+Logical Reasoning,https://www.shl.com/assessments/logical-reasoning,Yes,Yes,20,Multi-choice,Tests problem-solving and critical thinking
+C# Coding,https://www.shl.com/assessments/csharp,Yes,No,35,Multi-choice,Tests C# programming knowledge
+Verbal Reasoning,https://www.shl.com/assessments/verbal-reasoning,Yes,Yes,25,Multi-choice,Evaluates comprehension and language skills
+Mechanical Comprehension,https://www.shl.com/assessments/mechanical,Yes,No,15,Multi-choice,Tests understanding of mechanical concepts
+Coding Simulation - Python,https://www.shl.com/assessments/coding-python,Yes,No,45,Simulation,Real-world Python coding tasks
+Situational Judgement,https://www.shl.com/assessments/situational-judgement,Yes,No,30,Interactive,Assesses decision-making in workplace scenarios
+Deductive Reasoning,https://www.shl.com/assessments/deductive-reasoning,Yes,Yes,20,Multi-choice,Tests logical deduction skills
+Sales Competency,https://www.shl.com/assessments/sales-competency,Yes,No,40,Personality,Evaluates sales skills and customer interaction
+Excel Skills,https://www.shl.com/assessments/excel-skills,Yes,Yes,15,Interactive,Tests proficiency in Microsoft Excel
+Teamwork Assessment,https://www.shl.com/assessments/teamwork,Yes,No,35,Personality,Measures collaboration and interpersonal skills

@@ -15,9 +15,8 @@ I developed a web-based application to recommend SHL assessments based on natura
    - The system was rigorously tested with sample queries provided in the assignment, such as "Java developers, 40 mins" and "Python, SQL, JavaScript, 60 mins," to assess relevance and accuracy. Results were manually traced to ensure the keyword-matching logic correctly identified assessments based on skills and duration constraints. The evaluation confirmed that the system meets the basic requirements, with room for improvement through more sophisticated matching if an API were feasible.
 
 5. Output and Deployment:
-   - The application is deployed as a live demo accessible at [URL1] (e.g., https://shl-recommender-fallback.onrender.com), where users can input queries and view recommendations. An API endpoint is available at [URL2] (e.g., https://shl-recommender-fallback.onrender.com/?api=true&query=...), returning results in JSON format. The complete source code, including the dataset and configuration files, is hosted on GitHub at [URL3] (e.g., https://github.com/AYDivyansh/shl-recommender). The `approach.docx` document accompanies the submission to detail the process.
+   - The application is deployed as a live demo accessible at [URL1] (e.g., https://shl-recommender-fallback.onrender.com), where users can input queries and view recommendations. An API endpoint is available at [URL2] (e.g., https://shl-recommender-fallback.onrender.com/?api=true&query="Java developers, 40 mins"), returning results in JSON format. The complete source code, including the dataset and configuration files, is hosted on GitHub at [URL3] (e.g., https://github.com/AYDivyansh/shl-recommender). The `approach.docx` document accompanies the submission to detail the process.
 
 This project demonstrates a practical solution for assessment recommendation using keyword matching, optimized for local development and free-tier deployment. The fallback approach ensures functionality despite API constraints, fulfilling all assignment requirements with a focus on usability and accessibility.
 
 Divyansh Mishra
-[Date: April 08, 2025]
